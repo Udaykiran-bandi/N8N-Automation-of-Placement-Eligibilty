@@ -23,15 +23,10 @@ The workflow also highlights **weak modules with corresponding marks ⚠️**, h
 - Advance Statistics  
 
 **DS Students:**  
-- Python Programming  
-- Exploratory Data Analysis (EDA)  
-- SQL  
-- Power BI  
-- Advance Statistics  
+- Python Programming
+- EDA  
 - Machine Learning (ML)  
-- Artificial Neural Networks (ANN)  
-- Convolutional Neural Networks (CNN)  
-- Natural Language Processing (NLP)  
+- Deep Learning 
 - Generative AI (GenAI)  
 
 ## Workflow Steps
